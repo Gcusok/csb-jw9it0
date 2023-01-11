@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "https://gcusok.github.io/csb-jw9it0/static/js/main.e5a71898.chunk.js",
+    "main.js.map": "https://gcusok.github.io/csb-jw9it0/static/js/main.e5a71898.chunk.js.map",
+    "runtime-main.js": "https://gcusok.github.io/csb-jw9it0/static/js/runtime-main.60c9fec8.js",
+    "runtime-main.js.map": "https://gcusok.github.io/csb-jw9it0/static/js/runtime-main.60c9fec8.js.map",
+    "static/css/2.56a2aa7c.chunk.css": "https://gcusok.github.io/csb-jw9it0/static/css/2.56a2aa7c.chunk.css",
+    "static/js/2.b22eef4a.chunk.js": "https://gcusok.github.io/csb-jw9it0/static/js/2.b22eef4a.chunk.js",
+    "static/js/2.b22eef4a.chunk.js.map": "https://gcusok.github.io/csb-jw9it0/static/js/2.b22eef4a.chunk.js.map",
+    "index.html": "https://gcusok.github.io/csb-jw9it0/index.html",
+    "static/css/2.56a2aa7c.chunk.css.map": "https://gcusok.github.io/csb-jw9it0/static/css/2.56a2aa7c.chunk.css.map",
+    "static/js/2.b22eef4a.chunk.js.LICENSE.txt": "https://gcusok.github.io/csb-jw9it0/static/js/2.b22eef4a.chunk.js.LICENSE.txt",
+    "static/media/about.867ecafa.svg": "https://gcusok.github.io/csb-jw9it0/static/media/about.867ecafa.svg",
+    "static/media/checkbox.b1b9520d.svg": "https://gcusok.github.io/csb-jw9it0/static/media/checkbox.b1b9520d.svg",
+    "static/media/logo.0e25cbad.svg": "https://gcusok.github.io/csb-jw9it0/static/media/logo.0e25cbad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c9fec8.js",
+    "static/css/2.56a2aa7c.chunk.css",
+    "static/js/2.b22eef4a.chunk.js",
+    "static/js/main.e5a71898.chunk.js"
+  ]
+}
